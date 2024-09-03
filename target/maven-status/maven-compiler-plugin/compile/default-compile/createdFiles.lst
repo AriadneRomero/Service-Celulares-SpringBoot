@@ -1,0 +1,7 @@
+com\microservice\celulares\service\CelularServiceImpl.class
+com\microservice\celulares\controllers\CelularController.class
+com\microservice\celulares\SpringbootServiceCelularesApplication.class
+com\microservice\celulares\service\CelularService.class
+com\microservice\celulares\entity\Celular.class
+com\microservice\celulares\config\SwaggerConfig.class
+com\microservice\celulares\repository\CelularDao.class
